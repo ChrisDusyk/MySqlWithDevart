@@ -5,4 +5,4 @@ I have used [Devart's dotConnect for Oracle](https://www.devart.com/dotconnect/o
 - Devart dotConnect for MySQL ([download here](https://www.devart.com/dotconnect/mysql/download.html)) 
 - Any MySQL server variant (I'm using an instance of [MariaDB](https://mariadb.org/) on Amazon RDS)
 
-The rest of the tutorial instructions are located on my [blog](http://dev-blog.dusyk.ca/using-devart-dotconnect-for-mysql/), or on the [GitHub Wiki](https://github.com/LordCheese/MySqlWithDevart/wiki).
+The rest of the tutorial instructions are located on the [GitHub Wiki](https://github.com/LordCheese/MySqlWithDevart/wiki).
